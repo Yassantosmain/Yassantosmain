@@ -32,9 +32,17 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidad
 
 ### 📂 Portfólio de Projetos
 
-> Em breve!
+#### 🤖 Inteligência Artificial & Engenharia de Prompt
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **A Corrida do Prompt** | Exploração de engenharia de prompt com diferentes objetivos criativos — e-mail formal e geração de imagem com IA. | [Ver Projeto](./corrida-do-prompt/) |
 
----
+#### 🛠 Engenharia de Software & Produto
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Engenharia Reversa** | Ferramenta online para análise e exibição de metadados de imagens e arquivos de mídia, com suporte a temas, gradientes e logotipos. | [Ver Projeto](./engenharia-reversa/) |
+| **Do Clone ao MVP+** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto](./clone-ao-mvp/) |
+| **Engenharia de Software e IA com Bubble.io** | Construção de aplicações no-code integradas à Inteligência Artificial. | [Ver Projeto](./bubble-ia/) |
 
 ### 🏗 Estrutura do Repositório
 
