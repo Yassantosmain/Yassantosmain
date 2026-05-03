@@ -1,18 +1,18 @@
 # 🎯 SM1 - A Corrida do Prompt
 
-## 📌 Descrição
+##  Descrição
 Investigação de estratégias de prompting para melhorar a comunicação com modelos de linguagem.
 
-## 🎯 Objetivo
+##  Objetivo
 Testar diferentes abordagens de prompts para um mesmo objetivo, analisando os resultados obtidos em cada tentativa.
 
-## 📝 Atividades Realizadas
+##  Atividades Realizadas
 
-### ✉️ Desafio 1 — E-mail Formal de Desculpas
+###  Desafio 1 — E-mail Formal de Desculpas
 **Contexto:** Um pirata do século 18 escrevendo um e-mail formal de desculpas para um rei.
 - Foram desenvolvidos **2 prompts** com abordagens diferentes
 
-### 🎨 Desafio 2 — Descrição de Pintura
+###  Desafio 2 — Descrição de Pintura
 **Contexto:** Uma pintura a óleo sobre um astronauta tocando violoncelo em Marte.
 - Foram desenvolvidos **5 prompts** com variações de estilo e detalhe
 
