@@ -33,16 +33,60 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidad
 ### 📂 Portfólio de Projetos
 
 #### 🤖 Inteligência Artificial & Engenharia de Prompt
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **A Corrida do Prompt** | Exploração de engenharia de prompt com diferentes objetivos criativos — e-mail formal e geração de imagem com IA. | [Ver Projeto](./corrida-do-prompt/) |
 
-#### 🛠 Engenharia de Software & Produto
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Engenharia Reversa** | Ferramenta online para análise e exibição de metadados de imagens e arquivos de mídia, com suporte a temas, gradientes e logotipos. | [Ver Projeto](./engenharia-reversa/) |
-| **Do Clone ao MVP+** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto](./clone-ao-mvp/) |
-| **Engenharia de Software e IA com Bubble.io** | Construção de aplicações no-code integradas à Inteligência Artificial. | [Ver Projeto](./bubble-ia/) |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎯 A Corrida do Prompt</h3>
+      <p align="center">Investigação de estratégias de prompting para melhorar a comunicação com modelos de linguagem.</p>
+      <p align="center"><img src="https://img.shields.io/badge/IA-Engenharia%20de%20Prompt-blue?style=flat-square"/></p>
+      <p align="center"><a href="./corrida-do-prompt/">Ver Projeto</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔬 Laboratório de Classificação Visual</h3>
+      <p align="center">Utilização do Teachable Machine para treinar um modelo de aprendizado de máquina.</p>
+      <p align="center"><img src="https://img.shields.io/badge/IA-Machine%20Learning-green?style=flat-square"/></p>
+      <p align="center"><a href="./laboratorio-classificacao-visual/">Ver Projeto</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚔️ Batalha de Modelos e Engenharia de Prompt (XML)</h3>
+      <p align="center">Análise comparativa entre modelos de IA e aplicação avançada de XML na organização de prompts.</p>
+      <p align="center"><img src="https://img.shields.io/badge/IA-XML%20%7C%20Prompt-orange?style=flat-square"/></p>
+      <p align="center"><a href="./batalha-de-modelos/">Ver Projeto</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔍 Engenharia Reversa</h3>
+      <p align="center">Estudo e documentação reversa de sistemas e fluxos de software.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Software-Engenharia%20Reversa-red?style=flat-square"/></p>
+      <p align="center"><a href="./engenharia-reversa/">Ver Projeto</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 Do Clone ao MVP+</h3>
+      <p align="center">Desenvolvimento de um produto digital, iniciando com um clone e avançando até um MVP viável.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Software-MVP-purple?style=flat-square"/></p>
+      <p align="center"><a href="./clone-ao-mvp/">Ver Projeto</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎵 Criação de Músicas com Suno IA</h3>
+      <p align="center">Criação de músicas com Inteligência Artificial.</p>
+      <p align="center"><img src="https://img.shields.io/badge/IA-Música%20Generativa-pink?style=flat-square"/></p>
+      <p align="center"><a href="./musicas-suno-ia/">Ver Projeto</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚙️ Engenharia de Software e IA com Bubble.io</h3>
+      <p align="center">Construção de aplicativos por meio de ferramentas no-code com integração de inteligência artificial.</p>
+      <p align="center"><img src="https://img.shields.io/badge/No--Code-Bubble.io%20%7C%20IA-yellow?style=flat-square"/></p>
+      <p align="center"><a href="./bubble-io-ia/">Ver Projeto</a></p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ### 🏗 Estrutura do Repositório
 
