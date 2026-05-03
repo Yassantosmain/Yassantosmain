@@ -34,59 +34,17 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidad
 
 #### 🤖 Inteligência Artificial & Engenharia de Prompt
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎯 A Corrida do Prompt</h3>
-      <p align="center">Investigação de estratégias de prompting para melhorar a comunicação com modelos de linguagem.</p>
-      <p align="center"><img src="https://img.shields.io/badge/IA-Engenharia%20de%20Prompt-blue?style=flat-square"/></p>
-      <p align="center"><a href="./corrida-do-prompt/">Ver Projeto</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔬 Laboratório de Classificação Visual</h3>
-      <p align="center">Utilização do Teachable Machine para treinar um modelo de aprendizado de máquina.</p>
-      <p align="center"><img src="https://img.shields.io/badge/IA-Machine%20Learning-green?style=flat-square"/></p>
-      <p align="center"><a href="./laboratorio-classificacao-visual/">Ver Projeto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚔️ Batalha de Modelos e Engenharia de Prompt (XML)</h3>
-      <p align="center">Análise comparativa entre modelos de IA e aplicação avançada de XML na organização de prompts.</p>
-      <p align="center"><img src="https://img.shields.io/badge/IA-XML%20%7C%20Prompt-orange?style=flat-square"/></p>
-      <p align="center"><a href="./batalha-de-modelos/">Ver Projeto</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔍 Engenharia Reversa</h3>
-      <p align="center">Estudo e documentação reversa de sistemas e fluxos de software.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Software-Engenharia%20Reversa-red?style=flat-square"/></p>
-      <p align="center"><a href="./engenharia-reversa/">Ver Projeto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 Do Clone ao MVP+</h3>
-      <p align="center">Desenvolvimento de um produto digital, iniciando com um clone e avançando até um MVP viável.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Software-MVP-purple?style=flat-square"/></p>
-      <p align="center"><a href="./clone-ao-mvp/">Ver Projeto</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎵 Criação de Músicas com Suno IA</h3>
-      <p align="center">Criação de músicas com Inteligência Artificial.</p>
-      <p align="center"><img src="https://img.shields.io/badge/IA-Música%20Generativa-pink?style=flat-square"/></p>
-      <p align="center"><a href="./musicas-suno-ia/">Ver Projeto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚙️ Engenharia de Software e IA com Bubble.io</h3>
-      <p align="center">Construção de aplicativos por meio de ferramentas no-code com integração de inteligência artificial.</p>
-      <p align="center"><img src="https://img.shields.io/badge/No--Code-Bubble.io%20%7C%20IA-yellow?style=flat-square"/></p>
-      <p align="center"><a href="./bubble-io-ia/">Ver Projeto</a></p>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+### 📂 Portfólio de Projetos
+
+| Projeto | Descrição | Link |
+|---|---|:---:|
+| **SM1 - A Corrida do Prompt** | Investigação de estratégias de prompting para melhorar a comunicação com modelos de linguagem. | [Ver Projeto](./corrida-do-prompt/) |
+| **SM2 - Laboratório de Classificação Visual** | Utilização do Teachable Machine para treinar um modelo de aprendizado de máquina. | [Ver Projeto](./laboratorio-classificacao-visual/) |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Análise comparativa entre modelos de IA e aplicação avançada de XML na organização de prompts. | [Ver Projeto](./batalha-de-modelos/) |
+| **SM4 - Engenharia Reversa** | Estudo e documentação reversa de sistemas e fluxos de software. | [Ver Projeto](./engenharia-reversa/) |
+| **SM5 - Do Clone ao MVP+** | Desenvolvimento de um produto digital, iniciando com um clone e avançando até um MVP viável. | [Ver Projeto](./clone-ao-mvp/) |
+| **SM6 - Criação de Músicas com Suno IA** | Criação de músicas com Inteligência Artificial. | [Ver Projeto](./musicas-suno-ia/) |
+| **SM7 - Engenharia de Software e IA com Bubble.io** | Construção de aplicativos por meio de ferramentas no-code com integração de inteligência artificial. | [Ver Projeto](./bubble-io-ia/) |
 
 ### 🏗 Estrutura do Repositório
 
