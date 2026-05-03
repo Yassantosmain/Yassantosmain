@@ -34,8 +34,6 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidad
 
 #### 🤖 Inteligência Artificial & Engenharia de Prompt
 
-### 📂 Portfólio de Projetos
-
 | Projeto | Descrição | Link |
 |---|---|:---:|
 | **SM1 - A Corrida do Prompt** | Investigação de estratégias de prompting para melhorar a comunicação com modelos de linguagem. | [Ver Projeto](./corrida-do-prompt/) |
