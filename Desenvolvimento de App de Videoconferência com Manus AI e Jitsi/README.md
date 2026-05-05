@@ -112,22 +112,16 @@ pnpm db:migrate   # Aplica as migrações do banco
 
 <div align="center">
 
-<!-- Substitua a imagem abaixo pelo QR Code gerado para a URL do seu deploy -->
+
 
 ```
 ┌─────────────────────────────┐
-│                             │
-│   [ INSIRA O QR CODE AQUI ] │
-│                             │
-│  Use: qrcode.react ou       │
-│  qr-code-generator.com      │
+│ ![QR Code](assets/qrcode.png)
+
+**[https://3000-iagem28kji92rxipkzl0o-e93f1fdb.us2.manus.computer](https://3000-iagem28kji92rxipkzl0o-e93f1fdb.us2.manus.computer)**     │
 │                             │
 └─────────────────────────────┘
 ```
-
-**`https://cinesync.seu-dominio.com`**
-
-_Para gerar o QR Code, acesse [qr-code-generator.com](https://www.qr-code-generator.com) com a URL do seu deploy e adicione a imagem acima._
 
 </div>
 
