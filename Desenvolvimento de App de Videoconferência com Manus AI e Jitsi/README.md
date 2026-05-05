@@ -111,15 +111,7 @@ pnpm db:migrate   # Aplica as migrações do banco
 > **Escaneie o QR Code abaixo para acessar a demonstração ao vivo:**
 
 <div align="center">
-
-
-
-┌─────────────────────────────┐
-│ ![QR Code](assetsqrcode.png)|
-|                             |
-│                             │
-└─────────────────────────────┘
-
+<img src="assetsqrcode.png" width="200" alt="QR Code">
 </div>
 
 ---
