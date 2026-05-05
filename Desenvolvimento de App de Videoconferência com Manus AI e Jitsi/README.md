@@ -116,7 +116,7 @@ pnpm db:migrate   # Aplica as migrações do banco
 
 ```
 ┌─────────────────────────────┐
-│ ![QR Code](assets/qrcode.png)
+│ ![QR Code](assetsqrcode.png)
 
 **[https://3000-iagem28kji92rxipkzl0o-e93f1fdb.us2.manus.computer](https://3000-iagem28kji92rxipkzl0o-e93f1fdb.us2.manus.computer)**     │
 │                             │
