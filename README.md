@@ -43,7 +43,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidad
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento de um produto digital, iniciando com um clone e avançando até um MVP viável. | [Ver Projeto](./clone-ao-mvp/) |
 | **SM6 - Criação de Músicas com Suno IA** | Criação de músicas com Inteligência Artificial. | [Ver Projeto](./musicas-suno-ia/) |
 | **SM7 - Engenharia de Software e IA com Bubble.io** | Construção de aplicativos por meio de ferramentas no-code com integração de inteligência artificial. | [Ver Projeto](./bubble-io-ia/) |
-| **SM9 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Desenvolvimento de um aplicativo de videoconferência utilizando Manus AI e a plataforma Jitsi. | [Ver Projeto](./app-videoconferencia/) |
+| **SM9 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Desenvolvimento de um aplicativo de videoconferência utilizando Manus AI e a plataforma Jitsi. | [Ver Projeto](./Desenvolvimento-de-App-de-Videoconfer%C3%AAncia-com-Manus-AI-e-Jitsi/) |
 
 ### 🏗 Estrutura do Repositório
 
