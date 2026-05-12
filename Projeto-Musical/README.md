@@ -19,11 +19,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Título 01] | [Estilo] | [Arquivo MP3](./audio/musica1.mp3) |
-| 02 | [Título 02] | [Estilo] | [Arquivo MP3](./audio/musica2.mp3) |
-| 03 | [Título 03] | [Estilo] | [Arquivo MP3](./audio/musica3.mp3) |
-| 04 | [Título 04] | [Estilo] | [Arquivo MP3](./audio/musica4.mp3) |
-| 05 | [Título 05] | [Estilo] | [Arquivo MP3](./audio/musica5.mp3) |
+| 01 | [Título 01] | [Estilo] | [Arquivo MP3](https://github.com/Yassantosmain/portfolio-yasmin-santos-de-oliveira/blob/86d53267bb37f0031916a5b86a297607043814ae/Projeto-Musical/Powerless.mp3) |
+| 02 | [Título 02] | [Estilo] | [Arquivo MP3](https://github.com/Yassantosmain/portfolio-yasmin-santos-de-oliveira/blob/86d53267bb37f0031916a5b86a297607043814ae/Projeto-Musical/Quiet%20Power.mp3) |
+| 03 | [Título 03] | [Estilo] | [Arquivo MP3](https://github.com/Yassantosmain/portfolio-yasmin-santos-de-oliveira/blob/86d53267bb37f0031916a5b86a297607043814ae/Projeto-Musical/Savage%20Grace.mp3) |
+| 04 | [Título 04] | [Estilo] | [Arquivo MP3](https://github.com/Yassantosmain/portfolio-yasmin-santos-de-oliveira/blob/86d53267bb37f0031916a5b86a297607043814ae/Projeto-Musical/Soft%20%26%20Certain.mp3) |
+| 05 | [Título 05] | [Estilo] | [Arquivo MP3](https://github.com/Yassantosmain/portfolio-yasmin-santos-de-oliveira/blob/86d53267bb37f0031916a5b86a297607043814ae/Projeto-Musical/Too%20Late%20to%20Miss%20Me.mp3)|
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
