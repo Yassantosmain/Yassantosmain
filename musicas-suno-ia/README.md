@@ -1,4 +1,4 @@
-# 🎯 SM6 - Criação de Músicas com Suno IA
+# 🎯 SM8 - Criação de Músicas com Suno IA
 
 ##  Descrição
 Criação de músicas com Inteligência Artificial.
