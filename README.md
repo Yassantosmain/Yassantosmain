@@ -41,9 +41,9 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidad
 | **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Análise comparativa entre modelos de IA e aplicação avançada de XML na organização de prompts. | [Ver Projeto](./batalha-de-modelos/) |
 | **SM4 - Engenharia Reversa** | Estudo e documentação reversa de sistemas e fluxos de software. | [Ver Projeto](./engenharia-reversa/) |
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento de um produto digital, iniciando com um clone e avançando até um MVP viável. | [Ver Projeto](./clone-ao-mvp/) |
-| **SM6 - Criação de Músicas com Suno IA** | Criação de músicas com Inteligência Artificial. | [Ver Projeto](./musicas-suno-ia/) |
-| **SM7 - Engenharia de Software e IA com Bubble.io** | Construção de aplicativos por meio de ferramentas no-code com integração de inteligência artificial. | [Ver Projeto](./bubble-io-ia/) |
-| **SM9 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Desenvolvimento de um aplicativo de videoconferência utilizando Manus AI e a plataforma Jitsi. | [Ver Projeto](./Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi/) |
+| **SM6 - Engenharia de Software e IA com Bubble.io** | Construção de aplicativos por meio de ferramentas no-code com integração de inteligência artificial. | [Ver Projeto](./bubble-io-ia/) |
+| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Desenvolvimento de um aplicativo de videoconferência utilizando Manus AI e a plataforma Jitsi. | [Ver Projeto](./Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi/) |
+| **SM8 -Criação de Músicas com Suno IA** | Criação de músicas com Inteligência Artificial. | [Ver Projeto](./musicas-suno-ia/) |
 
 ### 🏗 Estrutura do Repositório
 
