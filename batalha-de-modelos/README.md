@@ -8,6 +8,7 @@ DeepSeek, Grok e Maritaca.
 
 ## 🧩 Prompt XML Utilizado
 
+```xml
 <tarefa>
   <objetivo>Criar uma página HTML5 única com CSS3 interno (single page).</objetivo>
   <tema>Comercio de grãos</tema>
@@ -34,6 +35,7 @@ DeepSeek, Grok e Maritaca.
     foram gerados para este código.
   </metrica_obrigatoria>
 </tarefa>
+```
 
 ## 📊 Quadro de Análise Comparativa
 
