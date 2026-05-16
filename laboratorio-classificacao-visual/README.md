@@ -16,7 +16,7 @@ a capacidade de generalização do modelo.
 ### Resultados dos Testes
 
 **Teste 1 — Tênis Original classificado corretamente (99% de confiança)**
-![Teste 1](./imagem1.png)
+![Teste 1](./imagem1.jpeg)
 
 
 > ⚠️ **Erro registrado:** dois tênis **originais** foram classificados
@@ -24,10 +24,10 @@ a capacidade de generalização do modelo.
 > gerado pelo viés do dataset de treinamento.
 
 **Teste 2 — Tênis Original sendo testado e classificado incorretamente via upload de arquivo**
-![Teste 2](./imagem2.png)
+![Teste 2](./imagem2.jpeg)
 
 **Teste 3 — Tênis Original sendo testado e classificado incorretamente via upload de arquivo**
-![Teste 3](./imagem3.png)
+![Teste 3](./imagem3.jpeg)
 
 ---
 
