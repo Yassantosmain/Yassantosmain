@@ -21,14 +21,13 @@ a capacidade de generalização do modelo.
 **Teste 2 — Tênis Falso classificado corretamente (98% de confiança)**
 ![Teste 2](./imagem2.png)
 
-**Teste 3 — Tênis Original sendo testado via upload de arquivo**
-![Teste 3](./imagem3.png)
 
 > ⚠️ **Erro registrado:** Um tênis **original** (Adidas branco) foi classificado 
 > pelo modelo com **100% de confiança** como **tênis falso** — um falso positivo 
 > gerado pelo viés do dataset de treinamento.
 
-![Teste 4](./imagem4.png)
+**Teste 3 — Tênis Original sendo testado e classificado incorretamente via upload de arquivo**
+![Teste 3](./imagem3.png)
 
 ---
 
